@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ru.caf82.result.others;
+package ru.caf82.result.machinelearning.preprocessing;
 
 /**
  *
  * @author 1
  */
-public interface Dao {
+public interface Transformer {
     
 }

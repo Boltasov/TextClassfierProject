@@ -7,7 +7,7 @@ package ru.caf82.result.workwithfiles;
 
 /**
  *
- * @author alex
+ * @author 1
  */
 public interface FileWorker {
     

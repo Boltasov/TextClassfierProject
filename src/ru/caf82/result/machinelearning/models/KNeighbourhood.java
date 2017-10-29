@@ -7,8 +7,8 @@ package ru.caf82.result.machinelearning.models;
 
 /**
  *
- * @author alex
+ * @author 1
  */
-public class KNeighbourhood extends AbstractModel {
+public abstract class KNeighbourhood {
     
 }

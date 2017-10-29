@@ -7,8 +7,7 @@ package ru.caf82.result.machinelearning.models;
 
 /**
  *
- * @author alex
+ * @author 1
  */
 public class Boosting extends AbstractModel {
-    
 }

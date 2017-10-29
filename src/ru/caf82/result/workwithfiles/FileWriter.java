@@ -7,8 +7,8 @@ package ru.caf82.result.workwithfiles;
 
 /**
  *
- * @author alex
+ * @author 1
  */
-public class FileWriter implements FileWorker {
+public class FileWriter implements FileWorker{
     
 }
